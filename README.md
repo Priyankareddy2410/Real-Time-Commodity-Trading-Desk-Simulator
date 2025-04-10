@@ -26,5 +26,4 @@ This project is a simulated trading desk built using **Python**, **Streamlit**, 
 
 ---
 
-## 📂 Project Structure
 
