@@ -26,4 +26,5 @@ This project is a simulated trading desk built using **Python**, **Streamlit**, 
 
 ---
 
+https://commodity-trading.streamlit.app/
 
